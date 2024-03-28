@@ -57,6 +57,8 @@ jspm_packages/
 
 web_modules/
 
+.wrangler/
+
 # TypeScript cache
 
 \*.tsbuildinfo
